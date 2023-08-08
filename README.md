@@ -1,5 +1,2 @@
-Merhaba bu portfolyoyu yaptığım projeler ve tasarımları tek bir yerde toplamak için oluşturdum.
-Her kategorinin altında açıklamaları ile projeleri belirttim.
-Umarım beğenirsiniz.
+Merhaba! GitHub profilimde, yaptığım projeleri ve tasarımları tek bir çatı altında buluşturduğum bir portfolyo sunuyorum. Her kategori altında, projelerin detaylı açıklamalarını bulabilirsiniz. Umarım beğenirsiniz.
 İletişim için: erendogan6@hotmail.com
-
