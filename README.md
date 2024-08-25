@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Marmara Üniversitesinde Bilgisayar Öğretmenliği (4) ve Bilgisayar Mühendisliği (3) öğrencisiyim.<br>🎯  Android Geliştirmeyle ilgileniyorum. (Java - Kotlin)</p>
+<p align="left">📚 Marmara Üniversitesinden Bilgisayar Öğretmenliği Mezunu ve Bilgisayar Mühendisliği (3) öğrencisiyim.<br>🎯  Android Geliştirmeyle ilgileniyorum. (Java - Kotlin)</p>
 
 ###
 
